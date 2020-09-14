@@ -3,5 +3,5 @@ package m1
 import "fmt"
 
 func Print() {
-    fmt.Println(2);
+    fmt.Println("m1-1.1");
 }
